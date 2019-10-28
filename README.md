@@ -1,3 +1,3 @@
 # hello-world
-just a repository
-do forhacktoberfest
+just a repository to
+do for hacktoberfest-2019
